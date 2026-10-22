@@ -2,9 +2,7 @@
 
 AgriBloom is an AI-powered agricultural planning application designed to help farmers make informed crop-selection decisions using soil properties and weather conditions. It combines machine learning with resource-planning tools to explore how land, water, and budget can be allocated more effectively.
 
-🚀 **Live Demo:** [Try AgriBloom](https://agribloom.streamlit.app/)
-
-> If your Streamlit app uses a different URL, replace the link above with your actual deployed app URL.
+🚀 **Live Demo:https://agribloom-zyoaakcgac4ujgvecjyvf9.streamlit.app/
 
 ## ✨ Features
 
