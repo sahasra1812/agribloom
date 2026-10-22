@@ -138,10 +138,6 @@ The model's recommendations depend on the quality, coverage, and representativen
 **Sahasra**  
 GitHub: [@sahasra1812](https://github.com/sahasra1812)
 
-## 📜 License
 
-No license has been specified yet. Add a license such as MIT only after deciding how you want others to use, modify, and distribute this project.
-
----
 
 *Built with Python, machine learning, and a vision for smarter, more sustainable agriculture. 🌱*
